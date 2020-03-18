@@ -9,10 +9,17 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>com.recipe-project</groupId>
 	<artifactId>recipe-shopping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>recipe-shopping</name>
+=======
+	<groupId>com.springboot2-angular-project</groupId>
+	<artifactId>springboot2-jpa-crud-application</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>springboot2-jpa-crud-application</name>
+>>>>>>> 0675533584d7a06931f118b05d35af477f8cb79e
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -21,6 +28,7 @@
 
 	<dependencies>
 		<dependency>
+<<<<<<< HEAD
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
 			<version>2.6.1</version>
@@ -32,6 +40,8 @@
 			<version>2.6.1</version>
 		</dependency>
 		<dependency>
+=======
+>>>>>>> 0675533584d7a06931f118b05d35af477f8cb79e
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
